@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University. 
 
-I am an environmental economist studying the relationships between environmental quality, labor markets, and health. 
+I am an environmental economist studying how environmental quality and policies impact labor markets and health.
 
 I expect to graduate in May 2022.
 
