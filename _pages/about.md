@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  I am an environmental economist studying the relationships between environmental quality, labor markets, and health. I expect to graduate in May 2022.
+I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University. 
+
+I am an environmental economist studying the relationships between environmental quality, labor markets, and health. 
+
+I expect to graduate in May 2022.
 
 <!-- My website is located at <https://MuyeChenEcon.github.io>, which contains my CV and research materials. -->
 
