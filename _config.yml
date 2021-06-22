@@ -4,7 +4,7 @@ locale                   : "en-US"
 title                    : "Muye Chen"
 title_separator          : "-"
 name                     : &name "Muye Chen"
-description              : &description "I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  My primary research interests include Labor Economics and the Economics of Education.   I have a particular interest in teacher selection and incentives to maximize student outcomes.   I expect to graduate in Spring 2022."
+description              : &description "I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  I am an environmental economist studying the relationships between environmental quality, labor markets, and health. I expect to graduate in May 2022."
 url                      : https://MuyeChenEcon.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MuyeChenEcon/MuyeChenEcon.github.io"
@@ -75,7 +75,7 @@ analytics:
 # Site Author
 author:
   name             : "Muye Chen"
-  avatar           : "KevinNg.png"
+  avatar           : "MuyeChen.png"
   bio              : "Ph.D. Candidate in Economics at Cornell University"
   location         : "Room 447 Uris Hall <div>Cornell University</div> <div>Ithaca, NY 14850</div>"
   employer         :
