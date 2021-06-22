@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Kevin Ng CV (PDF)](https://kevincng.github.io/files/Kevin_Ng_CV.pdf)
+[Muye Chen CV (PDF)](https://MuyeChenEcon.github.io/files/Muye Chen CV.pdf)
 
