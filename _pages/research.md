@@ -30,7 +30,7 @@ Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </di
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2>
-<div><a href="https://pubsonline.informs.org/doi/abs/10.1287/deca.2020.0417"><h3>Collective Choice May Tell Nothing About Anyone’s Individual Preferences</h3></a><br>
+<div><a href="https://pubsonline.informs.org/doi/abs/10.1287/deca.2020.0417"><h3>Collective Choice May Tell Nothing About Anyone’s Individual Preferences</h3></a><br/>
  Chen, M., M. Regenwetter, and C. P. Davis-Stober.<br/>
  <i>Decision Analysis</i>. 2021.</div>
  
