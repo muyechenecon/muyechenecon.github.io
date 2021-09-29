@@ -31,8 +31,8 @@ Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </di
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2>
 <div><a href="https://pubsonline.informs.org/doi/abs/10.1287/deca.2020.0417"><h3>Collective Choice May Tell Nothing About Anyone’s Individual Preferences</h3></a><br>
- Chen, M., M. Regenwetter, and C. P. Davis-Stober.<br>
- <i>Decision Analysis</i>. 2021.</div><br>
+ Chen, M., M. Regenwetter, and C. P. Davis-Stober.
+ <i>Decision Analysis</i>. 2021.</div>
  
  <div><a href="https://link.springer.com/chapter/10.1007/978-3-319-23114-3_1"><h3>Beyond Theory and Data in Preference Modeling: Bringing Humans into the Loop</h3></a><br>
  Allen, T. E., M. Chen, J. Goldsmith, N. Mattei, A. Popova, M. Regenwetter, F. Rossi, and C. Zwilling.<br>
