@@ -36,6 +36,6 @@ Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </di
  
  <div><a href="https://link.springer.com/chapter/10.1007/978-3-319-23114-3_1"><h3>Beyond Theory and Data in Preference Modeling: Bringing Humans into the Loop</h3></a><br>
  Allen, T. E., M. Chen, J. Goldsmith, N. Mattei, A. Popova, M. Regenwetter, F. Rossi, and C. Zwilling.<br>
- In: Walsh T. (eds) <i>{Algorithmic Decision Theory</i>, New York, NY: Springer. 2015. (Non-Peer Reviewed)</div>
+ In: Walsh T. (eds) <i>Algorithmic Decision Theory</i>, New York, NY: Springer. 2015. (Non-Peer Reviewed)</div>
 </p>
 
