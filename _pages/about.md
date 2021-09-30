@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University. 
+I am a Ph.D. candidate in the Department of Economics at Cornell University. 
 
 I am an environmental economist studying how environmental quality and policies impact labor markets and health.
 
