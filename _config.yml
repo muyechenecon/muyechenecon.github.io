@@ -8,7 +8,7 @@ description              : &description "I am a Ph.D. candidate in Economics in 
 url                      : https://MuyeChenEcon.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MuyeChenEcon/MuyeChenEcon.github.io"
-teaser                   :  "MuyeChen_website_3284.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "MuyeChen_website_3284.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
 future                   : true
@@ -75,7 +75,7 @@ analytics:
 # Site Author
 author:
   name             : "Muye Chen"
-  avatar           : "MuyeChen_website_3284.png"
+  avatar           : "MuyeChen_website_3284.jpg"
   bio              : "Ph.D. Candidate in Economics at Cornell University"
   location         : "Room 443 Uris Hall <div>Cornell University</div> <div>Ithaca, NY 14850</div>"
   employer         :
