@@ -26,7 +26,7 @@ Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </di
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Work in Progress </h2>
 <div><h3>Local Multipliers of Green Jobs</h3></div>
-<div> This paper evaluates the impacts of expanding green jobs on non-green employment, energy production and consumption, and CO_2 emissions. By employing a shift-share instrumental variable approach, I find that one additional green job generates 4.2 non-green jobs at the state level in the United States. Most of the increase comes from low-tradability industries. The cleaner an industry in terms of air pollution emissions, the larger the multiplier effect of green jobs. Furthermore, having more green jobs also significantly boosts the production and consumption of renewable energy, and lowers CO_2 emissions. </div> 
+<div> This paper evaluates the impacts of expanding green jobs on non-green employment, energy production and consumption, and CO<sub>2</sub> emissions. By employing a shift-share instrumental variable approach, I find that one additional green job generates 4.2 non-green jobs at the state level in the United States. Most of the increase comes from low-tradability industries. The cleaner an industry in terms of air pollution emissions, the larger the multiplier effect of green jobs. Furthermore, having more green jobs also significantly boosts the production and consumption of renewable energy, and lowers CO<sub>2</sub> emissions. </div> 
 </p>
 
 <p id="1.5-spaced" style="line-height: 150%;">
