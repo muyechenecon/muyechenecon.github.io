@@ -15,7 +15,7 @@ author_profile: true
 Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </div> <br>  
 -->
 
-<div><h3><a href="https://MuyeChenEcon.github.io/files/spill and labor Nov 2021 v1.pdf">Labor Market Effects of Environmental Disasters and Information Shocks: Evidence from Inland Oil Spills</a> (Job Market Paper)</h3></div>
+<div><h3><a href="https://MuyeChenEcon.github.io/files/Chen_spill_and_labor.pdf">Labor Market Effects of Environmental Disasters and Information Shocks: Evidence from Inland Oil Spills</a> (Job Market Paper)</h3></div>
 <div> This paper provides causal estimates on how inland oil spills, one major type of environmental disaster, affect local labor markets. By exploiting severe inland petroleum oil spills and their news coverage status, I find that spills negatively affect county-level labor markets, but only when a spill is in the news. In the five years after a severe inland spill that receives news coverage, employment, wages, the number of establishments, and the labor force all decrease significantly. Severe inland spills not reported in the news yield no such effects. Exposure to spill information induces composition changes in county-level gross migration, weakening labor market conditions in low-tradability industries, such as retail and food services. Information on environmental disasters triggers sorting, which has distributional effects and degrades labor markets in counties that experienced spills with news coverage. Back-of-the-envelope calculations suggest that compared to the control group, counties with spills that receive news coverage lost 407,000 jobs, the monetary value of which is equivalent to \$41.4B, and \$27.1B in foregone wages in aggregate during the post period. </div> <br>
 
 
