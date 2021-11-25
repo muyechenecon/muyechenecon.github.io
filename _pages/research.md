@@ -34,6 +34,6 @@ Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </di
 
 <div><a href="https://pubsonline.informs.org/doi/abs/10.1287/deca.2020.0417"><h3>Collective Choice May Tell Nothing About Anyone’s Individual Preferences</h3></a> Muye Chen (first author), Michel Regenwetter, and Clintin P. Davis-Stober.<br> <i>Decision Analysis</i>. 2021.</div>
  
- <div><a href="https://link.springer.com/chapter/10.1007/978-3-319-23114-3_1"><h3>Beyond Theory and Data in Preference Modeling: Bringing Humans into the Loop</h3></a>Thomas E. Allen, Muye Chen, Judy Goldsmith, Nicholas Mattei, Anna Popova, Michel Regenwetter, Francesca Rossi, Christopher Zwilling.<br> In: Walsh T. (eds) <i>Algorithmic Decision Theory</i>, New York, NY: Springer. 2015. (Non-Peer Reviewed) </div>
+ <div><a href="https://link.springer.com/chapter/10.1007/978-3-319-23114-3_1"><h3>Beyond Theory and Data in Preference Modeling: Bringing Humans into the Loop</h3></a>Thomas E. Allen, Muye Chen, Judy Goldsmith, Nicholas Mattei, Anna Popova, Michel Regenwetter, Francesca Rossi, Christopher Zwilling.<br> In: Walsh T. (eds) <i>Algorithmic Decision Theory</i>, New York, NY: Springer. 2015. </div>
 </p>
 
